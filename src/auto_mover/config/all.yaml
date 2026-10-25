@@ -1,0 +1,14 @@
+pre_auto:
+  ros__parameters:
+    forward_vel: 15.0
+    yaw_vel: 30.0
+    target_x0: 0.0
+    target_y0: 1.0
+    target_x1: 0.0
+    target_y1: 2.0
+    target_x2: 0.0
+    target_y2: 3.0
+    target_x3: 0.0
+    target_y3: 4.0
+    dist_threshold: 0.1 
+    yaw_threshold: 8.0
